@@ -4,7 +4,6 @@
 
 <h3 align="center" style="font-size: 35px; margin-top: -10px;">I'm Antonio Manuel!👨‍💻</h3>
 
-
 <div align="center">
  
 📚 I am currently studying **Computer Science and Business Administration** at the University of Granada.
@@ -35,14 +34,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
