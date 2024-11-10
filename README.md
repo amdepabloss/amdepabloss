@@ -8,9 +8,9 @@
 
 <div align="center">
  
-📚 I am currently studying **Computer Science and Business Administration** at the University of Granada.
+📚 I'm currently studying **Computer Science and Business Administration** at the University of Granada.
 
-🔭 I am excited to **contribute my skills** and passion to the world of development and programming, striving to make a **positive impact** through **innovative solutions**.
+🔭 I'm excited to **contribute my skills** and passion to the world of development and programming, striving to make a **positive impact** through **innovative solutions**.
 
 ⚡ Fun fact: **I also love sports, hiking in the mountains, and playing the piano**
 
