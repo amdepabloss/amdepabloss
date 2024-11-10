@@ -31,12 +31,5 @@
     <img src="https://skillicons.dev/icons?i=html,vscode,github,c++,c,ruby,python,java,sql" />
 </div>
 
-
 <br/>
 <hr/>
-<hr/>
-
-<!---
-amdepabloss/amdepabloss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
