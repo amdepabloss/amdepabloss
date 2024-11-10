@@ -30,8 +30,10 @@
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,vscode,github,cpp,c,ruby,python,java,sql" />
+    <img src="https://skillicons.dev/icons?i=html,vscode,github,cpp,c,ruby,python,java" /> 
+    <img src="https://img.icons8.com/ios-filled/50/sql.png" alt="SQL Icon" />
 </div>
+
 
 <br/>
 <hr/>
